@@ -15,11 +15,12 @@ limitations under the License.
 -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://huggingface.co/datasets/huggingface/documentation-images/raw/main/transformers-logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://huggingface.co/datasets/huggingface/documentation-images/raw/main/transformers-logo-light.svg">
-    <img alt="Hugging Face Transformers Library" src="https://huggingface.co/datasets/huggingface/documentation-images/raw/main/transformers-logo-light.svg" width="352" height="59" style="max-width: 100%;">
-  </picture>
+  <img
+    src="./axt-wake-work.png"
+    alt="AXT WAKE.WORK"
+    width="900"
+    style="max-width: 100%;"
+  >
   <br/>
   <br/>
 </p>
