@@ -65,7 +65,6 @@ limitations under the License.
 </h3>
 
 <h3 align="center">
-    <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers/transformers_as_a_model_definition.png"/>
 </h3>
 
 Transformers acts as the model-definition framework for state-of-the-art machine learning with text, computer
@@ -239,7 +238,6 @@ pipeline(
     - Model files can be used independently of the library for quick experiments.
 
 <a target="_blank" href="https://huggingface.co/enterprise">
-    <img alt="Hugging Face Enterprise Hub" src="https://github.com/user-attachments/assets/247fb16d-d251-4583-96c4-d3d76dda4925">
 </a><br>
 
 ## When shouldn't I use Transformers?
